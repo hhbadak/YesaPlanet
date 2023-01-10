@@ -1,0 +1,10 @@
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.dll
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.pdb
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.dll.config
+C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
