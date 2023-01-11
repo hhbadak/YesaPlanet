@@ -44,12 +44,12 @@ body {
 .header {
     float: left;
     position: relative;
-    opacity: 0.3;
+    opacity: 0.6;
 }
 
     .header img {
         width: 100%;
-        min-height: 660px;
+        min-height: 860px;
     }
 
 .yesaHomePage {
@@ -105,3 +105,36 @@ body {
             position: absolute;
             margin-top: -450px;
         }
+
+.gezegenMenu {
+    display: inline-block;
+    width: 1500px;
+    height: 500px;
+    background-size: cover;
+    position: absolute;
+    float: left;
+}
+
+    .gezegenMenu ul {
+    }
+
+        .gezegenMenu ul a {
+            float: left;
+            width: auto;
+            height: 40px;
+            margin: 90px;
+            margin-left: 200px;
+        }
+
+            .gezegenMenu ul a img {
+                width: 250px;
+                height: 200px;
+                margin-top: auto;
+                margin-left: 280px;
+                align-content: center;
+                margin-top: -750px;
+                position: absolute;
+                border-radius: 20px;
+                opacity: 0.9;
+            }
+}

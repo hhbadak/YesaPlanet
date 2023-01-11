@@ -43,39 +43,39 @@
                 </a>
             </ul>
             <div style="clear: both"></div>
+            <div class="gezegenMenu">
+                <ul>
+                    <a href="jupiterBilgi.aspx">
+                        <img src="../PageMedia/jupiter.jpg" />
+                    </a>
+                    <a href="marsBilgi.aspx">
+                        <img src="../PageMedia/mars.jpg" />
+                    </a>
+                    <a href="merkurBilgi.aspx">
+                        <img src="../PageMedia/merkur.PNG" />
+                    </a>
+                    <br />
+                    <br />
+                    <br />
+                    <a href="neptunBilgi.aspx">
+                        <br />
+                        <br />
+                        <br />
+                        <br />
+                        <img src="../PageMedia/neptun.jpg" />
+                    </a>
+                    <a href="saturnBilgi.aspx">
+                        <img src="../PageMedia/saturn.jpg" />
+                    </a>
+                    <a href="uranusBilgi.aspx">
+                        <img src="../PageMedia/uranus.PNG" />
+                    </a>
+                    <a href="venusBilgi.aspx">
+                        <img src="../PageMedia/venus.jpg" />
+                    </a>
 
-            <ul>
-                <a href="jupiterBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/jupiter.jpg" /></li>
-                </a>
-                <a href="marsBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/mars.jpg" /></li>
-                </a>
-                <a href="merkurBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/merkur.PNG" /></li>
-                </a>
-                <a href="neptunBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/neptun.jpg" /></li>
-                </a>
-                <a href="saturnBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/saturn.jpg" /></li>
-                </a>
-                <a href="uranusBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/uranus.PNG" /></li>
-                </a>
-                <a href="venusBilgi.aspx">
-                    <li>
-                        <img src="../PageMedia/venus.jpg" /></li>
-                </a>
-
-            </ul>
-
+                </ul>
+            </div>
         </div>
 
     </form>
