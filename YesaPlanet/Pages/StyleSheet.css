@@ -99,3 +99,9 @@ body {
     .menu ul {
         position: absolute;
     }
+
+        .menu ul img {
+            width: 50px;
+            position: absolute;
+            margin-top: -450px;
+        }
