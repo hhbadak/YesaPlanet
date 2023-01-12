@@ -7,7 +7,7 @@ using System.Web.UI.WebControls;
 
 namespace YesaPlanet.Pages
 {
-    public partial class ileitisim : System.Web.UI.Page
+    public partial class Haber1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {

@@ -68,6 +68,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="PageMedia\astronaut.png" />
+    <Content Include="PageMedia\Haber1.png" />
+    <Content Include="PageMedia\Haber2.png" />
+    <Content Include="PageMedia\Haber3.png" />
+    <Content Include="PageMedia\Haber4.png" />
+    <Content Include="PageMedia\Haber5.png" />
+    <Content Include="PageMedia\Haber6.png" />
     <Content Include="PageMedia\header-earth.jpg" />
     <Content Include="PageMedia\jupiter.jpg" />
     <Content Include="PageMedia\mars.jpg" />
@@ -77,9 +83,14 @@
     <Content Include="PageMedia\uranus.PNG" />
     <Content Include="PageMedia\venus.jpg" />
     <Content Include="PageMedia\Yesa.png" />
+    <Content Include="Pages\Haber1.aspx" />
+    <Content Include="Pages\Haber2.aspx" />
+    <Content Include="Pages\Haber3.aspx" />
+    <Content Include="Pages\Haber4.aspx" />
+    <Content Include="Pages\Haber5.aspx" />
+    <Content Include="Pages\Haber6.aspx" />
     <Content Include="Pages\haberler.aspx" />
     <Content Include="Pages\HomePage.aspx" />
-    <Content Include="Pages\ileitisim.aspx" />
     <Content Include="Pages\jupiterBilgi.aspx" />
     <Content Include="Pages\komsuGezegenler.aspx" />
     <Content Include="Pages\marsBilgi.aspx" />
@@ -94,6 +105,48 @@
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pages\Haber1.aspx.cs">
+      <DependentUpon>Haber1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Haber1.aspx.designer.cs">
+      <DependentUpon>Haber1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Haber2.aspx.cs">
+      <DependentUpon>Haber2.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Haber2.aspx.designer.cs">
+      <DependentUpon>Haber2.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Haber3.aspx.cs">
+      <DependentUpon>Haber3.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Haber3.aspx.designer.cs">
+      <DependentUpon>Haber3.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Haber4.aspx.cs">
+      <DependentUpon>Haber4.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Haber4.aspx.designer.cs">
+      <DependentUpon>Haber4.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Haber5.aspx.cs">
+      <DependentUpon>Haber5.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Haber5.aspx.designer.cs">
+      <DependentUpon>Haber5.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\Haber6.aspx.cs">
+      <DependentUpon>Haber6.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\Haber6.aspx.designer.cs">
+      <DependentUpon>Haber6.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Pages\haberler.aspx.cs">
       <DependentUpon>haberler.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -107,13 +160,6 @@
     </Compile>
     <Compile Include="Pages\HomePage.aspx.designer.cs">
       <DependentUpon>HomePage.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="Pages\ileitisim.aspx.cs">
-      <DependentUpon>ileitisim.aspx</DependentUpon>
-      <SubType>ASPXCodeBehind</SubType>
-    </Compile>
-    <Compile Include="Pages\ileitisim.aspx.designer.cs">
-      <DependentUpon>ileitisim.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\jupiterBilgi.aspx.cs">
       <DependentUpon>jupiterBilgi.aspx</DependentUpon>

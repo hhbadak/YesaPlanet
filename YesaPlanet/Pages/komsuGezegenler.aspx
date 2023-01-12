@@ -7,7 +7,6 @@
     <title>Komşu Gezegenler</title>
     <link href="StyleSheet.css" rel="stylesheet" />
     <link href="https://fonts.googleapis.com/css2?family=Rowdies&family=Sofia+Sans+Condensed&display=swap" rel="stylesheet" />
-    <%--referans https://www.herkesebilimteknoloji.com/haberler/fizikuzay/komsu-gezegenleri-yeterince-taniyor-musunuz--%>
 </head>
 <body>
     <form id="form1" runat="server">
@@ -37,9 +36,6 @@
                 </a>
                 <a href="haberler.aspx">
                     <li>Haberler</li>
-                </a>
-                <a href="ileitisim.aspx">
-                    <li>İletişim</li>
                 </a>
             </ul>
             <div style="clear: both"></div>

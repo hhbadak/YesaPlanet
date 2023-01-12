@@ -11,7 +11,7 @@ namespace YesaPlanet.Pages
 {
 
 
-    public partial class ileitisim
+    public partial class Haber1
     {
 
         /// <summary>

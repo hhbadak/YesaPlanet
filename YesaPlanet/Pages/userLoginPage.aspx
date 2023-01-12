@@ -37,9 +37,6 @@
                 <a href="haberler.aspx">
                     <li>Haberler</li>
                 </a>
-                <a href="ileitisim.aspx">
-                    <li>İletişim</li>
-                </a>
             </ul>
         </div>
     </form>

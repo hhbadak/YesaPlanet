@@ -137,4 +137,75 @@ body {
                 border-radius: 20px;
                 opacity: 0.9;
             }
+
 }
+
+.paragraf {
+    width: 1024px;
+    position: absolute;
+}
+
+    .paragraf p {
+        width: 1024px;
+        position: absolute;
+        text-align: center;
+        margin-left: 300px;
+        margin-top: 150px;
+        font-size: 20px;
+        color: #2b4ded;
+    }
+
+.haberler {
+    width: 1024px;
+    height: 800px;
+    position: absolute;
+    margin-left: 355px;
+    margin-top: 90px;
+}
+
+    .haberler a {
+        display: block;
+        padding: 5px;
+    }
+
+        .haberler a img {
+            width: 300px;
+            float: left;
+            margin: 15px;
+        }
+
+            .haberler a img:hover {
+                opacity: 0.8;
+            }
+
+        .haberler a label {
+            width: 300px;
+            float: left;
+            position: relative;
+            margin-left: 15px;
+            margin-top: -60px;
+            display: flex;
+            text-align: center;
+            color: white;
+            background-color: #b93333;
+            font-size: 16px;
+        }
+
+            .haberler a label:hover {
+                background-color: #7fce42;
+                color: #0dfce6
+            }
+
+.haberFoto {
+    width: 800px;
+    height: 500px;
+    float: left;
+    margin-left: 430px;
+    margin-top: -800px;
+    position: absolute;
+}
+
+    .haberFoto img {
+        width: 800px;
+        height: 300px;
+    }

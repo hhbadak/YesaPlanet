@@ -37,10 +37,31 @@
                 <a href="haberler.aspx">
                     <li>Haberler</li>
                 </a>
-                <a href="ileitisim.aspx">
-                    <li>İletişim</li>
-                </a>
             </ul>
+        </div>
+        <div class="haberler">
+            <a href="haber1.aspx">
+                <img src="../PageMedia/Haber1.png" /><label>Ay yüzeyi ve Dünya siyah-beyaz görüntülendi</label>
+            </a>
+            <a href="haber2.aspx">
+                <img src="../PageMedia/Haber2.png" /><label>Krizlerin gölgesinde 2022, bilim ve teknolojide ataklara sahne oldu</label>
+            </a>
+            <a href="haber3.aspx">
+                <img src="../PageMedia/Haber3.png" /><label>Uzaylılar neden bizimle iletişim kurmadı?</label>
+            </a>
+            <br />
+            <br />
+            <br />
+            <a href="haber4.aspx">
+                <img src="../PageMedia/Haber4.png" /><label>Çin'in FAST teleskobu Samanyolu'nun fotoğrafını çekti</label>
+
+            </a>
+            <a href="haber5.aspx">
+                <img src="../PageMedia/Haber5.png" /><label>Somali'ye gökten, daha önce Dünya'da hiç rastlanmamış 'iki yeni mineral' düştü</label>
+            </a>
+            <a href="haber6.aspx">
+                <img src="../PageMedia/Haber6.png" /><label>NASA astronotu Ay'da ne bulmak istediklerini açıkladı</label>
+            </a>
         </div>
     </form>
 </body>

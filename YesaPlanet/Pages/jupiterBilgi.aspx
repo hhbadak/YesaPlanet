@@ -37,10 +37,12 @@
                 <a href="haberler.aspx">
                     <li>Haberler</li>
                 </a>
-                <a href="ileitisim.aspx">
-                    <li>İletişim</li>
-                </a>
             </ul>
+        </div>
+        <div class="paragraf">
+            <p>
+                Jüpiter gerek çap gerekse kütle açısından Güneş Sistemi'ndeki en büyük gezegendir. Nispeten düşük olan yoğunluğu (suyun yoğunluğunun 1,33 katı), gezegenin akışkan yapısı ve kendi çevresindeki dönüş hızının yüksekliği nedeniyle, Satürn kadar olmasa da ekvatorda geniş, kutuplarda basık elipsoid görünüme sahiptir. Yansıtabilirlik derecesi (albedo) 0,52 olan gezegen, böylece yüzeyine düşen Güneş ışığının yarıdan fazlasını görünür tarafta yansıtmaktadır. Ancak kızılötesi alandaki ışınım ölçüldüğünde, Jüpiter'in, Güneş'ten aldığı enerjinin 2,3 katı kadarını dışarı yaydığı görülür. Bu nedenle gezegen, Güneş'e olan uzaklığına göre hesaplanan 106 K'den (-167 °C) çok daha yüksek bir etkin sıcaklığa sahiptir ve 126 K (-147 °C) sıcaklığında bir kara cisim gibi ışır. Jüpiter'in kendi içinde yarattığı bu enerji fazlası, gezegenin yer çekiminin etkisi ile yavaşça kendisi üzerine çökerek küçülmesi sırasında dönüştürülen potansiyel enerji ile açıklanmaktadır. Bu olgu Kelvin-Helmholtz mekanizması olarak adlandırılır.
+            </p>
         </div>
     </form>
 </body>
