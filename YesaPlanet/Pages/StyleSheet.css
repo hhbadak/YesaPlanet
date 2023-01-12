@@ -209,3 +209,54 @@ body {
         width: 800px;
         height: 300px;
     }
+
+.kullanici {
+    width: 700px;
+    position: absolute;
+    margin-left: 350px;
+    margin-top: 200px;
+    color: #004086;
+}
+
+.kullaniciAdi {
+    margin-left: 150px;
+    padding-bottom: 5px;
+}
+
+    .kullaniciAdi input {
+        opacity: 0.5;
+        width: 200px;
+        height: 35px;
+    }
+
+.sifre {
+    margin-left: 209px;
+}
+
+    .sifre input {
+        opacity: 0.5;
+        width: 200px;
+        height: 35px;
+    }
+
+.girisYap {
+    background-color: #686363;
+    text-decoration: none;
+    color: #28dc93;
+    padding: 5px;
+    float: right;
+    margin-top: -55px;
+    margin-right: 140px;
+}
+
+.kullanici a:hover {
+    background-color: #322c2c;
+}
+
+.kayitOl {
+    background-color: #a19e9e;
+    text-decoration: none;
+    color: #b02525;
+    padding: 5px;
+    float: right;
+}

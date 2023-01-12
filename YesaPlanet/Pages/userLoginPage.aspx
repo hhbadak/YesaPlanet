@@ -17,11 +17,6 @@
                 </a>
             </div>
             <h1 class="text">YESA</h1>
-            <div class="userLogin">
-                <a href="userLoginPage.aspx">
-                    <img src="../PageMedia/astronaut.png" />Giriş Yap
-                </a>
-            </div>
         </div>
         <div class="header">
             <img src="../PageMedia/header-earth.jpg" />
@@ -38,6 +33,21 @@
                     <li>Haberler</li>
                 </a>
             </ul>
+        </div>
+        <div class="kullanici">
+            <div class="kullaniciAdi">
+                Kullanıcı Adı:
+                <asp:TextBox ID="tb_kullaniciAdi" runat="server">
+                </asp:TextBox>
+            </div>
+            <div class="sifre">
+                Şifre:
+                <input type="password" name="password">
+            </div>
+            <asp:LinkButton CssClass="girisYap" ID="lb_kullaniciGiris" runat="server" OnClick="lb_kullaniciGiris_Click">
+                GÖNDER
+            </asp:LinkButton>
+            <a class="kayitOl" href="kayitOl.aspx">KAYIT OLMAK İÇİN TIKLA</a>
         </div>
     </form>
 </body>

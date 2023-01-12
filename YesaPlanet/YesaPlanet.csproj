@@ -92,6 +92,7 @@
     <Content Include="Pages\haberler.aspx" />
     <Content Include="Pages\HomePage.aspx" />
     <Content Include="Pages\jupiterBilgi.aspx" />
+    <Content Include="Pages\kayitOl.aspx" />
     <Content Include="Pages\komsuGezegenler.aspx" />
     <Content Include="Pages\marsBilgi.aspx" />
     <Content Include="Pages\merkurBilgi.aspx" />
@@ -167,6 +168,13 @@
     </Compile>
     <Compile Include="Pages\jupiterBilgi.aspx.designer.cs">
       <DependentUpon>jupiterBilgi.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\kayitOl.aspx.cs">
+      <DependentUpon>kayitOl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\kayitOl.aspx.designer.cs">
+      <DependentUpon>kayitOl.aspx</DependentUpon>
     </Compile>
     <Compile Include="Pages\komsuGezegenler.aspx.cs">
       <DependentUpon>komsuGezegenler.aspx</DependentUpon>
