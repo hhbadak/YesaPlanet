@@ -8,3 +8,13 @@ C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.dll
 C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.pdb
 C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.dll.config
 C:\Users\melik\source\repos\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.dll
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.pdb
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\bin\Debug\YesaPlanet.dll.config
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\HsnHs\OneDrive\Belgeler\GitHub\YesaPlanet\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

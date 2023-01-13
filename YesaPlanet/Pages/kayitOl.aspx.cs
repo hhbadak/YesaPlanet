@@ -9,7 +9,13 @@ namespace YesaPlanet.Pages
 {
     public partial class kayitOl : System.Web.UI.Page
     {
+
         protected void Page_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        protected void lb_kullanicikAYİT_Click(object sender, EventArgs e)
         {
 
         }

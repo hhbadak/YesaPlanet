@@ -211,7 +211,7 @@ body {
     }
 
 .kullanici {
-    width: 700px;
+    width: 1000px;
     position: absolute;
     margin-left: 350px;
     margin-top: 200px;
@@ -230,7 +230,8 @@ body {
     }
 
 .sifre {
-    margin-left: 209px;
+    margin-left: 179px;
+    padding-bottom: 5px;
 }
 
     .sifre input {
@@ -260,3 +261,47 @@ body {
     padding: 5px;
     float: right;
 }
+
+.ad {
+    margin-left: 173px;
+    padding-bottom: 5px;
+}
+
+    .ad input {
+        width: 200px;
+        opacity: 0.5;
+        height: 35px;
+    }
+
+.soyad {
+    margin-left: 160px;
+    padding-bottom: 5px;
+}
+
+    .soyad input {
+        width: 200px;
+        opacity: 0.5;
+        height: 35px;
+    }
+
+.telefon {
+    margin-left: 155px;
+    padding-bottom: 5px;
+}
+
+    .telefon input {
+        width: 200px;
+        opacity: 0.5;
+        height: 35px;
+    }
+
+.eMail {
+    margin-left: 172px;
+    padding-bottom: 5px;
+}
+
+    .eMail input {
+        opacity: 0.5;
+        width: 200px;
+        height: 35px;
+    }
